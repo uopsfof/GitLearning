@@ -1,1 +1,2 @@
 Even monkey knows Git commands
+Second commit - code line
