@@ -1,2 +1,3 @@
 Even monkey knows Git commands
 Second commit - code line
+Third line - commit
